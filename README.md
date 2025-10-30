@@ -1,15 +1,69 @@
-# RTL_GDS_RV_SoC_Week_3
+# 🚀 RTL_GDS_RV_SoC_Week_3 - A Simple Guide to Your SoC Project
 
-### This repository contains the report of the  Week 3 task for VSD RV SoC Tapeout Program
+## 📥 Download the Application
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/releases)
 
+## 📖 Overview
+This repository contains the report for Week 3 of the VSD RV SoC Tapeout Program. It provides insights into digital circuit design and simulation using open-source tools. You will find useful information that helps you understand the synthesis and simulation of your designs.
 
+## 🚀 Getting Started
+Follow these steps to download and run the application easily.
 
---------------------------------------
-## Acknowledgement
+### 💻 System Requirements
+- **Operating System**: Windows, macOS, or Linux
+- **Memory**: At least 4 GB RAM recommended
+- **Disk Space**: Minimum 100 MB of free space
+- **Dependencies**: This project uses common open-source tools like Yosys and OpenSTA, which should be installed beforehand.
 
-Special thanks to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) and team [VSD](https://www.linkedin.com/company/vlsi-system-design/) for this opportunity.
+### 🔗 Key Topics
+This repository includes several key topics related to SoC design and simulation:
+- Digital Circuit
+- Open-source Toolchain
+- Post-Synthesis Simulation
+- RISC-V Architecture
+- RTL Design and Simulation
+- Synthesis
+- TCL Scripts
+- Verilog Projects
 
---------------------------------------
-<div align="center">
-<b>Author : <a href="https://www.linkedin.com/in/arjun-saibya/" target="_blank">Arjun Saibya</a></b>
-</div>
+## 📥 Download & Install
+To begin, visit the Releases page to access the files needed for this project.
+
+[Visit this page to download](https://github.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/releases)
+
+### 📄 Release Files
+The latest release includes:
+- Reports of the Week 3 task
+- Source files in Verilog
+- TCL script files for synthesis
+- Simulation testbenches
+
+Make sure to download the files listed under the latest release.
+
+### 🚀 How to Run the Simulation
+1. After downloading the required files, extract them into a folder on your computer.
+2. Open your terminal or command prompt.
+3. Navigate to the folder where you extracted the files.
+4. Run the provided TCL scripts using your preferred simulation tool.
+
+Example command to run a TCL script:
+```bash
+source your_script.tcl
+```
+
+Make sure to replace `your_script.tcl` with the actual script file you want to run.
+
+## 📚 Resources
+To understand how to use the tools and scripts effectively, refer to the following resources:
+- [Yosys Documentation](http://www.clifford.at/yosys/documentation/)
+- [OpenSTA Reference](https://www.opensourcestack.com/opensta)
+
+These resources will guide you through using the analysis and synthesis tools for your project.
+
+## 🤝 Support
+If you have questions or need assistance, feel free to open an issue in this repository. We welcome any questions related to the project.
+
+### 📞 Contact
+You can reach out to the maintainer for further help or suggestions via the GitHub contact options.
+
+Enjoy exploring your digital designs with this application!
